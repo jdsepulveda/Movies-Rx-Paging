@@ -1,1 +1,7 @@
-# Movies-Rx-Paging
+- Dagger2
+- RxJava
+- Retrofit
+- Kotlin
+- MVVM
+- Paging
+- Navigation
